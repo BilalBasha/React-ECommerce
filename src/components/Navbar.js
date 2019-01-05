@@ -22,7 +22,7 @@ class Navbar extends Component {
                     <ButtonContainer>
                         <span className='mr-2'>
                             <i className="fas fa-cart-plus">
-                                 My cart
+                                {" "}My cart
                             </i>
                         </span>
                     </ButtonContainer>
